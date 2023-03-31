@@ -14,7 +14,7 @@
         Idade: <input name="idade" required> <br>
         Telefone: <input name="tel" required><br>
         Rua: <input name="rua"><br>
-        Número da rua: <input name="numero_rua"> <br>
+        Número da Casa: <input name="numero_casa"> <br>
 
         Genero  <select name="genero"><br>
 
